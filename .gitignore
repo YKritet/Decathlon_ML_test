@@ -38,4 +38,5 @@ ipython_config.py
 
 
 # Data
-data/*
+data/*.csv
+models/*.txt
